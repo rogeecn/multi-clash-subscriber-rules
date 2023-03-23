@@ -1,4 +1,5 @@
 payload:
+  - "+.openai.com"
   - "1e100.net"
   - "1password.com"
   - "2mdn.net"
