@@ -157,3 +157,6 @@ payload:
   - "youtu.be"
   - "youtube.com"
   - "ytimg.com"
+  - "openai.com"
+  - "chat.openai.com"
+  - "ai.com"
